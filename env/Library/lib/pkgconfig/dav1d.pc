@@ -1,9 +1,0 @@
-prefix=C:/Users/DELL/Desktop/Sample_Project_1/env/Library
-includedir=${prefix}/include
-libdir=${prefix}/lib
-
-Name: libdav1d
-Description: AV1 decoding library
-Version: 1.5.3
-Libs: -L${libdir} -ldav1d
-Cflags: -I${includedir}
