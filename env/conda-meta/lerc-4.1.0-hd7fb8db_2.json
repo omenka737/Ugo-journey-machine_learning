@@ -1,0 +1,77 @@
+{
+  "name": "lerc",
+  "version": "4.1.0",
+  "build": "hd7fb8db_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "lerc-4.1.0-hd7fb8db_2.conda",
+  "md5": "ef1389287f849219cbf35207a6c3e1cd",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/lerc-4.1.0-hd7fb8db_2.conda",
+  "sha256": "87c693b042d6aad4cc76dca3da121ff2ea32e96cb6583e1ec1244869bcffb400",
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208"
+  ],
+  "constrains": [],
+  "license": "Apache-2.0",
+  "timestamp": 1777290110000,
+  "size": 190037,
+  "_requested_specs": [],
+  "package_tarball_full_path": "C:\\Users\\DELL\\miniconda3\\pkgs\\lerc-4.1.0-hd7fb8db_2.conda",
+  "extracted_package_dir": "C:\\Users\\DELL\\miniconda3\\pkgs\\lerc-4.1.0-hd7fb8db_2",
+  "files": [
+    "Library/bin/Lerc.dll",
+    "Library/include/Lerc_c_api.h",
+    "Library/include/Lerc_types.h",
+    "Library/lib/Lerc.lib",
+    "Library/lib/pkgconfig/Lerc.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/Lerc.dll",
+        "path_type": "hardlink",
+        "sha256": "25c5996c856439c792f7c0c64c6898ce4a1d316ee53a2d5228965c576f5a5b1c",
+        "size_in_bytes": 552264,
+        "sha256_in_prefix": "25c5996c856439c792f7c0c64c6898ce4a1d316ee53a2d5228965c576f5a5b1c"
+      },
+      {
+        "_path": "Library/include/Lerc_c_api.h",
+        "path_type": "hardlink",
+        "sha256": "403667753a04939e6e4874fe84ff90ef29240cd8d6ac14e08ac5a934a5ce7dc1",
+        "size_in_bytes": 22168,
+        "sha256_in_prefix": "403667753a04939e6e4874fe84ff90ef29240cd8d6ac14e08ac5a934a5ce7dc1"
+      },
+      {
+        "_path": "Library/include/Lerc_types.h",
+        "path_type": "hardlink",
+        "sha256": "4887c98b138f7cebaa4f26699e9a8647d612058892b261c37395728b3695b038",
+        "size_in_bytes": 1285,
+        "sha256_in_prefix": "4887c98b138f7cebaa4f26699e9a8647d612058892b261c37395728b3695b038"
+      },
+      {
+        "_path": "Library/lib/Lerc.lib",
+        "path_type": "hardlink",
+        "sha256": "59d0824a45d8e855c36d9258db853a369824c31feb386bc805e7c426be083a27",
+        "size_in_bytes": 4158,
+        "sha256_in_prefix": "59d0824a45d8e855c36d9258db853a369824c31feb386bc805e7c426be083a27"
+      },
+      {
+        "_path": "Library/lib/pkgconfig/Lerc.pc",
+        "prefix_placeholder": "C:/Users/task_177728980197760/croot/lerc-split_1777290049175/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "c2ee7022aaca755809eadd2b1f1b1a7058a0582673f9d374ad20b0378270edee",
+        "size_in_bytes": 382,
+        "sha256_in_prefix": "bf041bedb38261d19ba1506783f19908bf9de6500c08551a60246dac4979fdba"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\DELL\\miniconda3\\pkgs\\lerc-4.1.0-hd7fb8db_2",
+    "type": 1
+  }
+}

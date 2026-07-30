@@ -1,0 +1,117 @@
+{
+  "name": "dav1d",
+  "version": "1.5.3",
+  "build": "h4375697_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "dav1d-1.5.3-h4375697_1.conda",
+  "md5": "37e3cac4efcd3ed782f6989e409b117e",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/dav1d-1.5.3-h4375697_1.conda",
+  "sha256": "d9a3d9610528b9c748789f0f73cd4fbc97c5df4793609eab8bb13a74cd1d4984",
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208"
+  ],
+  "constrains": [],
+  "license": "BSD-2-Clause",
+  "timestamp": 1782933014000,
+  "size": 643185,
+  "_requested_specs": [],
+  "package_tarball_full_path": "C:\\Users\\DELL\\miniconda3\\pkgs\\dav1d-1.5.3-h4375697_1.conda",
+  "extracted_package_dir": "C:\\Users\\DELL\\miniconda3\\pkgs\\dav1d-1.5.3-h4375697_1",
+  "files": [
+    "Library/bin/dav1d.dll",
+    "Library/bin/dav1d.exe",
+    "Library/include/dav1d/common.h",
+    "Library/include/dav1d/data.h",
+    "Library/include/dav1d/dav1d.h",
+    "Library/include/dav1d/headers.h",
+    "Library/include/dav1d/picture.h",
+    "Library/include/dav1d/version.h",
+    "Library/lib/dav1d.lib",
+    "Library/lib/pkgconfig/dav1d.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/dav1d.dll",
+        "path_type": "hardlink",
+        "sha256": "14f1d587dfc971c8a3b45d35fcdd0b6961ce1b6d1c36fae61029a8fc92c4683a",
+        "size_in_bytes": 1795912,
+        "sha256_in_prefix": "14f1d587dfc971c8a3b45d35fcdd0b6961ce1b6d1c36fae61029a8fc92c4683a"
+      },
+      {
+        "_path": "Library/bin/dav1d.exe",
+        "path_type": "hardlink",
+        "sha256": "ebeecb88d76c25fbea4b9f15c8ab8ee425d1d3671252a5530318c9e6480932d7",
+        "size_in_bytes": 57672,
+        "sha256_in_prefix": "ebeecb88d76c25fbea4b9f15c8ab8ee425d1d3671252a5530318c9e6480932d7"
+      },
+      {
+        "_path": "Library/include/dav1d/common.h",
+        "path_type": "hardlink",
+        "sha256": "62bcebef397d127de595d24164730a026670a3428303f809aed59f7aa26175a6",
+        "size_in_bytes": 3258,
+        "sha256_in_prefix": "62bcebef397d127de595d24164730a026670a3428303f809aed59f7aa26175a6"
+      },
+      {
+        "_path": "Library/include/dav1d/data.h",
+        "path_type": "hardlink",
+        "sha256": "283e79ba35c3f90083d68f729a82a3d3625945c0776de5e87b4c081f0296a529",
+        "size_in_bytes": 4488,
+        "sha256_in_prefix": "283e79ba35c3f90083d68f729a82a3d3625945c0776de5e87b4c081f0296a529"
+      },
+      {
+        "_path": "Library/include/dav1d/dav1d.h",
+        "path_type": "hardlink",
+        "sha256": "dbc211a0f5480d8c38877dc18380fbd7cd6bb8375ac49a599e0c6e5f5e3ae15e",
+        "size_in_bytes": 12659,
+        "sha256_in_prefix": "dbc211a0f5480d8c38877dc18380fbd7cd6bb8375ac49a599e0c6e5f5e3ae15e"
+      },
+      {
+        "_path": "Library/include/dav1d/headers.h",
+        "path_type": "hardlink",
+        "sha256": "3349f02ca7ebc5a09d9a623f83b820769903f86313638a9277b930cdd8071fe8",
+        "size_in_bytes": 14339,
+        "sha256_in_prefix": "3349f02ca7ebc5a09d9a623f83b820769903f86313638a9277b930cdd8071fe8"
+      },
+      {
+        "_path": "Library/include/dav1d/picture.h",
+        "path_type": "hardlink",
+        "sha256": "66680595e5c6686395073ce55a5dc123369daa7d2f2a0c6df9a13ce8cfb57e17",
+        "size_in_bytes": 6013,
+        "sha256_in_prefix": "66680595e5c6686395073ce55a5dc123369daa7d2f2a0c6df9a13ce8cfb57e17"
+      },
+      {
+        "_path": "Library/include/dav1d/version.h",
+        "path_type": "hardlink",
+        "sha256": "ee63fe5d8bba3a84ed9e57360ea593dbd81c7e9b731e2e02ca2724f813b89fdd",
+        "size_in_bytes": 1890,
+        "sha256_in_prefix": "ee63fe5d8bba3a84ed9e57360ea593dbd81c7e9b731e2e02ca2724f813b89fdd"
+      },
+      {
+        "_path": "Library/lib/dav1d.lib",
+        "path_type": "hardlink",
+        "sha256": "8050c01114114c8c342ab434f3e0cb537e785866d1ce2d659b62e155135edba0",
+        "size_in_bytes": 5844,
+        "sha256_in_prefix": "8050c01114114c8c342ab434f3e0cb537e785866d1ce2d659b62e155135edba0"
+      },
+      {
+        "_path": "Library/lib/pkgconfig/dav1d.pc",
+        "prefix_placeholder": "C:/Users/task_ZVtVf0VbSw2ie_0/croot/dav1d_1782932928753/_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "eceab6d1da0f609755738d98b1afb9ad08dbba13fba2fe14f0219d60e931f5a3",
+        "size_in_bytes": 252,
+        "sha256_in_prefix": "baac8f7021e3ecccd2144af034001ded65ee90ee59acb1863986dcee0dc09afc"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\DELL\\miniconda3\\pkgs\\dav1d-1.5.3-h4375697_1",
+    "type": 1
+  }
+}
